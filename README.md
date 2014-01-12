@@ -3,8 +3,16 @@ main
 
 main page
 
-#include <stdio.h>
-  int main(void)
-  {
-    printf("brdcstr.com");
-  }
+<!DOCTYPE html>
+<html>
+
+    <head>
+          <title>brdcstr.net</title>
+    </head>
+    
+    <body>
+      <h1>Coming Soon.</h1> 
+      </p>Social Media will be social.</p>
+    </body>
+    
+</html>
