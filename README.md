@@ -4,14 +4,14 @@ main
 main page
 
 <!DOCTYPE html>
-<html>
+<head>
 <style>
     <head>
           <title>brdcstr.net</title>
     </head>
     body {
         font-size: 24px;
-        font-family: Helvetica
+        font-family: Helvetica;
         Background: #2C3539;
         Color: black;
     }
@@ -19,11 +19,10 @@ main page
         color: #616D7E;
     }
 </style>
+</head>
     <body>
       <h1>Coming Soon.</h1> 
       </p>Social Media will be social.</p>
       <input type="email"
-      placehold="Your email"><input type="submit">
+      placeholder="Your email"><input type="submit">
     </body>
-    
-</html>
