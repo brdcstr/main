@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<head>
+<style>
+</style>
+</head>
+<body>
+<input type="email" placeholder="Email">
+<input type="Password" placeholder="Password"><input type="Enter">
+</body>
