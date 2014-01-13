@@ -6,6 +6,7 @@
               First name: <input type="text" name="firstname"><br>
               Last name: <input type="text" name="lastname">
               Email: <input type="text" name="Email">
+              Password: <input type="password" name="pwd">
               <!--Sex-->
               <h1>Sex</h1>
               <input type="radio" name="sex" value="male">Male<br>
@@ -17,7 +18,5 @@
               <input type="checkbox" name="Interests" value="Hanging Out">Hanging Out<br>
               <input type="checkbox" name="Interests" value="Shopping">Shopping 
               </select>
-              Password: <input type="password" name="pwd">
-
 </form>
         </body>
