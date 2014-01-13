@@ -1,9 +1,5 @@
-main
-====
-
-main page
-
 <!DOCTYPE html>
+<html>
 <head>
 <style>
     <head>
@@ -12,11 +8,11 @@ main page
     body {
         font-size: 24px;
         font-family: Helvetica;
-        Background: #2C3539;
+        Background: red;
         Color: black;
     }
     input[type="submit"] {
-        color: #616D7E;
+        color: green;
     }
 </style>
 </head>
@@ -26,3 +22,4 @@ main page
       <input type="email"
       placeholder="Your email"><input type="submit">
     </body>
+</html>
