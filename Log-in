@@ -1,27 +1,30 @@
 <!DOCTYPE html>
-<head>
-<style>
-</style>
-</head>
-<body>
+    <head>
+    </head>
+        <body>
 <form>
-<form>
-First name: <input type="text" name="firstname"><br>
-Last name: <input type="text" name="lastname">
-<!--Sex-->
-<input type="radio" name="sex" value="male">Male<br>
-<input type="radio" name="sex" value="female">Female
-<input type="radio" name="sex" value="prefer to not answer"
-<select name="Interests">
-<!--Interests-->
-<option value="Select Interests>Select Interests</options>
-<option value="Hanging Out">Hanging Out</option>
-<option value="Shopping">Shopping</option>
-<option value="Going to the movies">Going to the movies</option>
-<option value="Playing Soccer">Playing Soccer</option>
-<option value="Playing Basketball">Playing Basketball</options>
-<option value="Playing Volleyball">Playing Volleyball</options>
-</select>
+              First name: <input type="text" name="firstname"><br>
+              Last name: <input type="text" name="lastname">
+              Email: <input type="text" name="Email">
+              <!--Sex-->
+              <h1>Sex</h1>
+              <input type="radio" name="sex" value="male">Male<br>
+              <input type="radio" name="sex" value="female">Female
+              <input type="radio" name="sex" value="prefer to not answer"
+              <!--Interests-->
+              <h1>Interests</h1>
+              <select name="Interests">
+              <input type="checkbox" name="Interests" value="Hanging Out">Hanging Out<br>
+              <input type="checkbox" name="Interests" value="Shopping">Shopping 
+              <option value="Select Interests>Select Interests</options>
+              <option value="Hanging Out">Hanging Out</option>
+              <option value="Shopping">Shopping</option>
+              <option value="Going to the movies">Going to the movies</option>
+              <option value="Playing Soccer">Playing Soccer</option>
+              <option value="Playing Basketball">Playing Basketball</options>
+              <option value="Playing Volleyball">Playing Volleyball</options>
+              </select>
+              Password: <input type="password" name="pwd">
+
 </form>
-</form>
-</body>
+        </body>
