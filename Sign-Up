@@ -1,46 +1,26 @@
 <!DOCTYPE html>
-
 <html>
-    
 <head>
     <title>Sign Up</title>
 </head>
-        
 <body>
- <h1><brdcstr.net</h1>
+ <h1>brdcstr.net</h1>
 <form>
-              
 First name: <input type="text" name="firstname"><br>
-              
-Last name: <input type="text" name="lastname">
-<br>              
-Email: <input type="text" name="Email">
-<br>              
-Password: <input type="password" name="pwd">
-<br>              
+Last name: <input type="text" name="lastname"><br>              
+Email: <input type="text" name="Email"><br>              
+Password: <input type="password" name="pwd"><br>              
 <!--Sex-->
-              
 <h1>Sex</h1>
-              
 <input type="radio" name="sex" value="male">Male<br>
-              
-<input type="radio" name="sex" value="female">Female
-<br>              
-<input type="radio" name="sex" value="prefer to not answer">Prefer to not answer
-<br>              
+<input type="radio" name="sex" value="female">Female<br>              
+<input type="radio" name="sex" value="prefer to not answer">Prefer to not answer<br>              
 <!--Interests-->
-              
 <h1>Interests</h1>
-                           
 <input type="checkbox" name="Interests" value="Hanging Out">Hanging Out<br>
-              
 <input type="checkbox" name="Interests" value="Shopping">Shopping 
-              
 </select>
-
 </form>
-        
 </body>
-       
 </html>
 
